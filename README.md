@@ -28,3 +28,7 @@ An AI-powered graph-based platform designed to analyze relationships across frag
 
 - [LinkedIn](https://www.linkedin.com/in/lakshmi-yokshitha-73140132b)
 - Email: luckylakshmi69333@gmail.com
+- ## 📄 Resume
+
+[📄 View My Resume](./5263.pdf)
+
